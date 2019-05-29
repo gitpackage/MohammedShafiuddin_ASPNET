@@ -1,0 +1,33 @@
+/home/codio/workspace/console/bin/Debug/netcoreapp2.1/program.deps.json
+/home/codio/workspace/console/bin/Debug/netcoreapp2.1/program.runtimeconfig.json
+/home/codio/workspace/console/bin/Debug/netcoreapp2.1/program.runtimeconfig.dev.json
+/home/codio/workspace/console/bin/Debug/netcoreapp2.1/program.dll
+/home/codio/workspace/console/bin/Debug/netcoreapp2.1/program.pdb
+/home/codio/workspace/console/obj/Debug/netcoreapp2.1/program.csprojAssemblyReference.cache
+/home/codio/workspace/console/obj/Debug/netcoreapp2.1/program.csproj.CoreCompileInputs.cache
+/home/codio/workspace/console/obj/Debug/netcoreapp2.1/program.AssemblyInfoInputs.cache
+/home/codio/workspace/console/obj/Debug/netcoreapp2.1/program.AssemblyInfo.cs
+/home/codio/workspace/console/obj/Debug/netcoreapp2.1/program.dll
+/home/codio/workspace/console/obj/Debug/netcoreapp2.1/program.pdb
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.deps.json
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.runtimeconfig.json
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.runtimeconfig.dev.json
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.dll
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.pdb
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.csprojAssemblyReference.cache
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.csproj.CoreCompileInputs.cache
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.AssemblyInfoInputs.cache
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.AssemblyInfo.cs
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.dll
+C:\Users\shafi\Desktop\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.pdb
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.deps.json
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.runtimeconfig.json
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.runtimeconfig.dev.json
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.dll
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\bin\Debug\netcoreapp2.1\program.pdb
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.csprojAssemblyReference.cache
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.csproj.CoreCompileInputs.cache
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.AssemblyInfoInputs.cache
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.AssemblyInfo.cs
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.dll
+D:\UIC 2017\cs341_proj7_Downloaded\aspnet\console\obj\Debug\netcoreapp2.1\program.pdb
